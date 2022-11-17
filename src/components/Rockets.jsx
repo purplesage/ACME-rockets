@@ -4,7 +4,10 @@ import rocketLaunch from "../assets/rocketlaunch.png";
 
 const Rockets = () => {
   return (
-    <section id="rockets" className="my-12 mb-6 scroll-mt-20 p-6 ">
+    <section
+      id="rockets"
+      className="widescreen:section-min-height tallscreen:section-min-height my-12 mb-6 scroll-mt-20 p-6 "
+    >
       <h2 className="text-center text-4xl font-bold text-slate-900 dark:text-white sm:text-5xl">
         Our Rockets
       </h2>

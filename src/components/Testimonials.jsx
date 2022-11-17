@@ -1,8 +1,9 @@
-import { BsDashLg } from "react-icons/bs";
-
 const Testimonials = () => {
   return (
-    <section id="testimonials" className="my-12 scroll-mt-20 p-6">
+    <section
+      id="testimonials"
+      className="widescreen:section-min-height tallscreen:section-min-height my-12 scroll-mt-20 p-6"
+    >
       <h2 className="mb-6 text-center text-4xl font-bold text-slate-900 dark:text-white sm:text-5xl">
         Testimonials
       </h2>
@@ -16,7 +17,7 @@ const Testimonials = () => {
         </blockquote>
         <figcaption className="mt-4 text-right text-xl italic text-slate-500 dark:text-slate-400 sm:text-2xl">
           <p className=" flex items-center justify-end">
-            <BsDashLg /> Wile E. Coyote, Genius
+            &#8212; Wile E. Coyote, Genius
           </p>
         </figcaption>
       </figure>
@@ -34,7 +35,7 @@ const Testimonials = () => {
         </blockquote>
         <figcaption className="mt-4 text-right text-xl italic text-slate-500 dark:text-slate-400 sm:text-2xl">
           <p className=" flex items-center justify-end">
-            <BsDashLg /> Marvin The Martian &amp; K-9
+            &#8212; Marvin The Martian &amp; K-9
           </p>
         </figcaption>
       </figure>
@@ -51,7 +52,7 @@ const Testimonials = () => {
         </blockquote>
         <figcaption className="mt-4 text-right text-xl italic text-slate-500 dark:text-slate-400 sm:text-2xl">
           <p className=" flex items-center justify-end">
-            <BsDashLg /> Buzz Lightyear
+            &#8212; Buzz Lightyear
           </p>
         </figcaption>
       </figure>
