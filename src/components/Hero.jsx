@@ -6,8 +6,8 @@ const Hero = () => {
       className="widescreen:section-min-height tallscreen:section-min-height mb-12 flex scroll-mt-40 flex-col-reverse items-center justify-center gap-8 p-6 sm:flex-row"
     >
       <article className="sm:w-1/2">
-        <h2 className="max-w-md text-center text-4xl font-bold text-slate-900 dark:text-white sm:text-left sm:text-5xl ">
-          We Boldy Go{" "}
+        <h2 className="max-w-md text-center font-audioWide text-4xl font-bold tracking-wide text-slate-900 dark:text-white sm:text-left sm:text-5xl ">
+          We Boldly Go{" "}
           <span className="text-indigo-700 dark:text-indigo-300">
             Where No Rocket{" "}
           </span>

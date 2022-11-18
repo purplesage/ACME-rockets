@@ -18,6 +18,10 @@ module.exports = {
         "open-menu": "open-menu 0.5s ease-in-out forwards",
       },
     },
+    fontFamily: {
+      audioWide: ["Audiowide", "cursive"],
+      lato: ["Lato", "sans-serif"],
+    },
   },
   plugins: [],
 };

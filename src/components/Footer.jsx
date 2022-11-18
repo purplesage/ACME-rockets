@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer id="#footer" className="bg-teal-700 text-xl text-white">
+    <footer id="#footer" className="bg-pink-600 text-xl text-white">
       <section className="mx-auto flex max-w-4xl flex-col p-4 sm:flex-row sm:justify-between ">
         <address>
           <h2>ACME Rocket-Powered Products, Inc.</h2>

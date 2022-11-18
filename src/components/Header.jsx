@@ -23,10 +23,12 @@ const Header = () => {
   return (
     <>
       {isMenuOpen && <MobileMenu handleOpenMenu={handleOpenMenu} />}
-      <header className="sticky top-0 z-20 bg-teal-700 text-white">
+      <header className="sticky top-0 z-20 bg-pink-600 text-white">
         <section className="mx-auto flex max-w-4xl items-center justify-between p-4">
           <h1 className="text-3xl font-medium">
-            <a href="#hero">🚀 ACME Rockets</a>
+            <a href="#hero" className="font-audioWide">
+              🚀 ACME Rockets
+            </a>
           </h1>
           <div>
             <button

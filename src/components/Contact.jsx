@@ -34,7 +34,7 @@ const Contact = () => {
           required
           className="w-full rounded-xl border border-solid border-slate-900 p-3 text-2xl text-black dark:border-none sm:text-3xl"
         ></textarea>
-        <button className="w-48 rounded-xl border border-solid border-slate-900 bg-teal-700 p-3 text-white hover:bg-teal-600 active:bg-teal-500 dark:border-none">
+        <button className="w-48 rounded-xl border border-solid border-slate-900 bg-indigo-700 p-3 text-white hover:bg-teal-600 active:bg-teal-500 dark:border-none">
           Submit
         </button>
       </form>

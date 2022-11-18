@@ -8,8 +8,8 @@ const Testimonials = () => {
         Testimonials
       </h2>
       <figure className="my-12">
-        <blockquote className="relative rounded-3xl bg-teal-600 py-12 pl-14 pr-8 dark:bg-black">
-          <p className="mt-2 text-left text-2xl text-white before:absolute before:top-0 before:left-0 before:translate-x-2 before:translate-y-2 before:transform before:font-serif before:text-8xl before:text-white before:opacity-25 before:content-['\201C'] after:absolute after:bottom-0 after:right-3 after:translate-x-2 after:translate-y-2 after:transform after:font-serif after:text-8xl after:text-white after:opacity-25 after:content-['\201D'] dark:text-slate-400 sm:text-3xl">
+        <blockquote className="relative rounded-3xl bg-indigo-700 py-12 pl-14 pr-8 dark:bg-black">
+          <p className="before:font-serif after:font-serif mt-2 text-left text-2xl text-white before:absolute before:top-0 before:left-0 before:translate-x-2 before:translate-y-2 before:transform before:text-8xl before:text-white before:opacity-25 before:content-['\201C'] after:absolute after:bottom-0 after:right-3 after:translate-x-2 after:translate-y-2 after:transform after:text-8xl after:text-white after:opacity-25 after:content-['\201D'] dark:text-slate-400 sm:text-3xl">
             ACME has always been there for me. Their Explorer rocket arrived in
             a wooden crate as expected. Life-long customer! A++ shopping
             experience.
@@ -23,8 +23,8 @@ const Testimonials = () => {
       </figure>
 
       <figure className="my-12">
-        <blockquote className="relative rounded-3xl bg-teal-600 py-12 pl-14 pr-8 dark:bg-black">
-          <p className="mt-2 text-left text-2xl text-white before:absolute before:top-0 before:left-0 before:translate-x-2 before:translate-y-2 before:transform before:font-serif before:text-8xl before:text-white before:opacity-25 before:content-['\201C'] after:absolute after:bottom-0 after:right-3 after:translate-x-2 after:translate-y-2 after:transform after:font-serif after:text-8xl after:text-white after:opacity-25 after:content-['\201D'] dark:text-slate-400 sm:text-3xl">
+        <blockquote className="relative rounded-3xl bg-indigo-700 py-12 pl-14 pr-8 dark:bg-black">
+          <p className="before:font-serif after:font-serif mt-2 text-left text-2xl text-white before:absolute before:top-0 before:left-0 before:translate-x-2 before:translate-y-2 before:transform before:text-8xl before:text-white before:opacity-25 before:content-['\201C'] after:absolute after:bottom-0 after:right-3 after:translate-x-2 after:translate-y-2 after:transform after:text-8xl after:text-white after:opacity-25 after:content-['\201D'] dark:text-slate-400 sm:text-3xl">
             The ACME Adventurer has thwarted my Illudium Q-36 Explosive Space
             Modulator on several occasions.{" "}
             <span className="italic">This makes me very, very angry!</span>{" "}
@@ -41,8 +41,8 @@ const Testimonials = () => {
       </figure>
 
       <figure className="my-12">
-        <blockquote className="relative rounded-3xl bg-teal-600 py-12 pl-14 pr-8 dark:bg-black">
-          <p className="mt-2 text-left text-2xl text-white before:absolute before:top-0 before:left-0 before:translate-x-2 before:translate-y-2 before:transform before:font-serif before:text-8xl before:text-white before:opacity-25 before:content-['\201C'] after:absolute after:bottom-0 after:right-3 after:translate-x-2 after:translate-y-2 after:transform after:font-serif after:text-8xl after:text-white after:opacity-25 after:content-['\201D'] dark:text-slate-400 sm:text-3xl">
+        <blockquote className="relative rounded-3xl bg-indigo-700 py-12 pl-14 pr-8 dark:bg-black">
+          <p className="before:font-serif after:font-serif mt-2 text-left text-2xl text-white before:absolute before:top-0 before:left-0 before:translate-x-2 before:translate-y-2 before:transform before:text-8xl before:text-white before:opacity-25 before:content-['\201C'] after:absolute after:bottom-0 after:right-3 after:translate-x-2 after:translate-y-2 after:transform after:text-8xl after:text-white after:opacity-25 after:content-['\201D'] dark:text-slate-400 sm:text-3xl">
             I knew i not only wanted &#8212;
             <span className="italic">i needed</span> &#8212; ACME's Infinity
             Rocket for my mission in space. Acme delivered in one day! Nothing
