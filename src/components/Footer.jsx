@@ -10,7 +10,7 @@ const Footer = () => {
           Fairfield, New Jersey 12345-5555 <br />
           Email:{" "}
           <a href="mailto:inquiries@acmerockets.com">
-            Inquires@AcmeRockets.com
+            inquires@acmeRockets.com
           </a>{" "}
           <br />
           Phone: <a href="tel:+15555555555">{"(555) 555-5555"}</a>
